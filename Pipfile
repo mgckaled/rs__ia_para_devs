@@ -4,6 +4,28 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pandas = "*"
+scikit-learn = "*"
+openai = "*"
+numpy = "*"
+ipywidgets = "*"
+ipykernel = "*"
+nbformat = "*"
+python-dotenv = "*"
+crewai = "*"
+crewai-tools = "*"
+langchain-community = "*"
+transformers = "*"
+datasets = "*"
+evaluate = "*"
+torch = "*"
+huggingface-hub = "*"
+gitpython = "*"
+fastapi = "*"
+pydantic = "*"
+matplotlib = "*"
+seaborn = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
