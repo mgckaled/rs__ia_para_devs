@@ -26,6 +26,8 @@ pydantic = "*"
 matplotlib = "*"
 seaborn = "*"
 jupyterlab = "*"
+langchain = "*"
+duckduckgo-search = "*"
 
 [dev-packages]
 
