@@ -5,7 +5,7 @@
 
 ## Sobre
 
-Repositório da formação completa de IA para Devs (2024-2025), desenvolvido pela Rocketseat Education.
+Repositório contendo a formação completa de IA para Devs (2024-2025), desenvolvido pela Rocketseat Education.
 
 ## Conteúdo
 
@@ -97,7 +97,7 @@ Este nível oferece uma abordagem prática e especializada para a criação e ot
 >
 > [Apresentação em slides](.github/docs/pdf/n6.pdf) do conteúdo teórico
 >
-> Prompt Engineering: [Desafio] / [Solução]
+> Prompt Engineering: [Desafio](./.github/docs/content/tasks/cn6.md) / [Solução 1](./n6/task/t123.md#desafio-1) - [Solução 2](./n6/task/t123.md#desafio-2) - [Solução 3](./n6/task/t123.md#desafio-3) - [Solução 4](./n6/task/t4.md)
 >
 > [Teste](.github/docs/content/n6.md#questionário-avaliativo) avaliativo
 
