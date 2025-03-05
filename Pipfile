@@ -3,6 +3,19 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
+[scripts]
+lint="pylint n1 n2 n3 n4 n5 n6"
+lint-strict="pylint --errors-only n1 n2 n3 n4 n5 n6" 
+lint-score="pylint --score=y n1 n2 n3 n4 n5 n6"
+lint-rcfile="pylint --rcfile=.pylintrc n1 n2 n3 n4 n5 n6"
+lint-reports="pylint --reports=y n1 n2 n3 n4 n5 n6"
+lint-html="pylint --output-format=html n1 n2 n3 n4 n5 n6 > reports/lint_report.html"
+lint-json="pylint --output-format=json n1 n2 n3 n4 n5 n6 > reports/lint_report.json"
+lint-fail-under="pylint --fail-under=8.0 n1 n2 n3 n4 n5 n6"
+lint-ignore-warnings="pylint --disable=W n1 n2 n3 n4 n5 n6"
+lint-suggestions="pylint --suggestion-mode=y n1 n2 n3 n4 n5 n6"
+lint-all="pylint --output-format=text:colorized --reports=y --score=y n1 n2 n3 n4 n5 n6"
+
 [packages]
 pandas = "*"
 scikit-learn = "*"
