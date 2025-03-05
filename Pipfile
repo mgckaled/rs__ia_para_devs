@@ -15,6 +15,7 @@ lint-fail-under="pylint --fail-under=8.0 n1 n2 n3 n4 n5 n6"
 lint-ignore-warnings="pylint --disable=W n1 n2 n3 n4 n5 n6"
 lint-suggestions="pylint --suggestion-mode=y n1 n2 n3 n4 n5 n6"
 lint-all="pylint --output-format=text:colorized --reports=y --score=y n1 n2 n3 n4 n5 n6"
+st-chat="streamlit run ./n2/streamlit_gpt.py"
 
 [packages]
 pandas = "*"
