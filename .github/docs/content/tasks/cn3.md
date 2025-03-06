@@ -1,6 +1,6 @@
-# Descrição do Desafio
+# Desafio Otimizando LLMs com RAG (Nível 3)
 
-> Retornar ao [README.md](../../../README.md)
+> Retornar ao [README.md](../../../../README.md)
 >
 > Acesso ao [conteúdo das aulas](../n3.md)
 

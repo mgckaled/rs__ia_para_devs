@@ -69,7 +69,7 @@ Este nível oferece uma abordagem prática e especializada para otimizar Modelos
 >
 > [Apresentação em slides](.github/docs/pdf/n4.pdf) do conteúdo teórico.
 >
-> LLM Fine Tuning: [Desafio] / [Solução]
+> LLM Fine Tuning: [Desafio](./.github/docs/content/tasks/cn4.md) / [Solução]
 >
 > [Teste](.github/docs/content/n4.md#questionário-avaliativo) avaliativo
 
@@ -83,7 +83,7 @@ Este nível oferece uma abordagem prática e especializada para o desenvolviment
 >
 > [Apresentação em slides](.github/docs/pdf/n5.pdf) do conteúdo teórico.
 >
-> Agentes de IA: [Desafio] / [Solução]
+> Agentes de IA: [Desafio](./.github/docs/content/tasks/cn5.md) / [Solução]
 >
 > [Teste](.github/docs/content/n5.md#questionário-avaliativo) avaliativo
 
