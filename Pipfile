@@ -15,7 +15,6 @@ lint-fail-under="pylint --fail-under=8.0 n1 n2 n3 n4 n5 n6"
 lint-ignore-warnings="pylint --disable=W n1 n2 n3 n4 n5 n6"
 lint-suggestions="pylint --suggestion-mode=y n1 n2 n3 n4 n5 n6"
 lint-all="pylint --output-format=text:colorized --reports=y --score=y n1 n2 n3 n4 n5 n6"
-
 n2-st-chat="streamlit run ./n2/streamlit_gpt.py"
 n6-fastapi="python -m uvicorn n6.task.t4:app --reload"
 
@@ -45,6 +44,7 @@ jupyterlab = "*"
 langchain = "*"
 duckduckgo-search = "*"
 streamlit = "*"
+langchain-chroma = "*"
 
 [dev-packages]
 pylint = "*"
