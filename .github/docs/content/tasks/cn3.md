@@ -19,3 +19,9 @@ Você pode encontrar o PDF do livro no seguinte [LINK](https://fundar.org.br/wp-
 - Qual foi o contexto histórico e político que levou à Guerra de Canudos, segundo Euclides da Cunha?
 - Como Euclides da Cunha descreve a figura de Antônio Conselheiro e seu papel na Guerra de Canudos?
 - Quais são os principais aspectos da crítica social e política presentes em "Os Sertões"? Como esses aspectos refletem a visão do autor sobre o Brasil da época?
+
+## Soluções
+
+- [Naive RAG](../../../../n3/task/t_naive_rag.ipynb)
+- [Parent RAG](../../../../n3/task/t_parent_rag.ipynb)
+- [Rerank RAG](../../../../n3/task/t_rerank_rag.ipynb)

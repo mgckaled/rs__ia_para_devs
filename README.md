@@ -39,23 +39,32 @@ Este nível oferece algumas abordagens para o desenvolvimento de chatbots, cobri
 
 Oferece uma visão sobre a otimização de Modelos de Linguagem de Grande Escala (LLM) com o uso da arquitetura RAG (Retrieval-Augmented Generation). Utiliza-se através de técnicas de pré-processamento de dados, integração de modelos RAG e diferentes arquiteturas para melhorar a eficiência e qualidade de LLMs em uma variedade de contextos, desde pesquisa até aplicações práticas em empresas.
 
+> [Arquivos](./n3/m1/) do módulo
+
 #### Módulo 2 - RAG Code Review
 
 Traz um outro exemplo de RAG, dessa vez voltado para Code Review com uma base de código baixada diretamente do Github. Além disso, aborda os desafios e limitações do RAG, sendo o principal deles o tamanho e overlap dos chunks.
+
+> [Arquivos](./n3/m2/) do módulo
 
 #### Módulo 3 - RAG Avançado
 
 Elenca exemplos avançados de RAG, trazendo tanto Parent RAG quanto RAG Rerank. Além disso, aborda como esses dois exemplos podem auxiliar nos desafios e limitações do RAG mencionados nos módulos anteriores.
 
+> [Arquivos](./n3/m3/) do módulo
+
 #### Módulo 4 - Deploy RAG
 
 Foco no ensino da como realizar o deploy de soluções RAG, disponibilizando uma API em nuvem. Utiliza-se como base um dos modelos criado anteriormente.
 
+> [Arquivos](./n3/m4/) do módulo
+>
+> ---
 > Acesso ao [conteúdo das aulas](.github/docs/content/n3.md)
 >
 > [Apresentação em slides](.github/docs/pdf/n3.pdf) do conteúdo teórico.
 >
-> LLMs RAG: [Desafio](.github/docs/content/challenges/cn3.md) / [Solução]
+> LLMs RAGs: [Desafio](.github/docs/content/challenges/cn3.md) / [Solução 1 - Naive RAG](./n3/task/t_naive_rag.ipynb) - [Solução 2 - Parent RAG](./n3/task/t_parent_rag.ipynb) - [Solução 3 - Rerank RAG](./n3/task/t_rerank_rag.ipynb)
 >
 > [Teste](.github/docs/content/n3.md#questionário-avaliativo)
 
