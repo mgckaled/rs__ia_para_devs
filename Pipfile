@@ -30,7 +30,6 @@ python-dotenv = "*"
 crewai = "*"
 crewai-tools = "*"
 langchain-community = "*"
-transformers = "*"
 datasets = "*"
 evaluate = "*"
 torch = "*"
@@ -45,6 +44,7 @@ langchain = "*"
 duckduckgo-search = "*"
 streamlit = "*"
 langchain-chroma = "*"
+transformers = {extras = ["torch"], version = "*"}
 
 [dev-packages]
 pylint = "*"
