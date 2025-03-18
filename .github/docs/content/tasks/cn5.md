@@ -33,4 +33,4 @@ inputs={'query': 'Melhores jogos de 2020'}
 
 ```
 
-[Resolução](https://www.notion.so/Resolu-o-1a8395da57708181b143e646ef6138e3?pvs=21)
+[Resolução](../../../../n5/task/desafio-roteiro-games.ipynb)

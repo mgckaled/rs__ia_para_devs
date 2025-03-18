@@ -92,7 +92,7 @@ Este nível oferece uma abordagem prática e especializada para o desenvolviment
 >
 > [Apresentação em slides](.github/docs/pdf/n5.pdf) do conteúdo teórico.
 >
-> Agentes de IA: [Desafio](./.github/docs/content/tasks/cn5.md) / [Solução]
+> Agentes de IA: [Desafio](./.github/docs/content/tasks/cn5.md) / [Solução](./n5/task/desafio-roteiro-games.ipynb)
 >
 > [Teste](.github/docs/content/n5.md#questionário-avaliativo) avaliativo
 
