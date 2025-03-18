@@ -78,7 +78,7 @@ Este nível oferece uma abordagem prática e especializada para otimizar Modelos
 >
 > [Apresentação em slides](.github/docs/pdf/n4.pdf) do conteúdo teórico.
 >
-> LLM Fine Tuning: [Desafio](./.github/docs/content/tasks/cn4.md) / [Solução]
+> LLM Fine Tuning: [Desafio](./.github/docs/content/tasks/cn4.md) / [Solução](./n4/task/t_fine_tuning.ipynb)
 >
 > [Teste](.github/docs/content/n4.md#questionário-avaliativo) avaliativo
 

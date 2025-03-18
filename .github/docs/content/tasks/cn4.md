@@ -41,4 +41,4 @@ Para facilitar a execução do desafio, **recomenda-se utilizar o Google Colab**
 
 Nós disponibilizamos também uma possível solução para esse desafio. Porém, tente se desafiar e resolver o exercício antes de olhar a solução.
 
-[Resolução](https://www.notion.so/Resolu-o-195395da5770819a8890ee2fd8411f7f?pvs=21)
+[Aqruivo Jupyter Notebook](../../../../n4/task/t_fine_tuning.ipynb)

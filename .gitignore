@@ -167,5 +167,7 @@ cython_debug/
 # streamlit secrets
 secrets.toml
 
-# other repos 
+# others repos / folders 
 n3/m2/test_repo/
+n4/bert-hate-speech-test
+n4/task/bert-department-classification
