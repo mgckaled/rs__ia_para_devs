@@ -45,6 +45,8 @@ duckduckgo-search = "*"
 streamlit = "*"
 langchain-chroma = "*"
 transformers = {extras = ["torch"], version = "*"}
+yfinance = "*"
+langchain-openai = "*"
 
 [dev-packages]
 pylint = "*"
